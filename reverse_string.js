@@ -1,3 +1,4 @@
+//function to reverse string recursivly
 function fun1(str){
     let rev_str="";
 

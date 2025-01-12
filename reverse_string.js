@@ -1,5 +1,5 @@
 //function to reverse string recursivly
-function fun1(str){
+function fun_reverse(str){
     let rev_str="";
 
    for (let i = str.length-1; i >=0; i--) {
@@ -11,4 +11,4 @@ function fun1(str){
    return rev_str;
 }
 
-console.log(fun1("vivek"))
+console.log(fun_reverse("vivek"))
